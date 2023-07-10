@@ -25,7 +25,6 @@
 .coomon-h3{
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 40px;
     font-style: normal;
     font-weight: 800;
@@ -147,3 +146,33 @@
     background: #FFF;
 }
 /* input-section END here */
+/* Footer section START here */
+#footer{
+    width: 100%;
+    height: 250px;
+    background: #111010;
+    color: #fff;
+    text-align: center;
+}
+.footer-content{
+    width: 50%;
+    padding: 50px;
+    margin: 0 auto;
+}
+.footer-tittle{
+    padding: 10px 0px;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.footer-text{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+}
+#copy-right{
+    color:rgba(255, 255, 255, 0.40);
+}
+/* Footer section START here */

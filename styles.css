@@ -22,6 +22,15 @@
     text-align: center;
     border: 0;
 }
+.coomon-h3{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
 /* Some Common Code END here */
 /* Header Section START here */
 .heading{
@@ -70,7 +79,7 @@
     text-align: center;
     width: 80%;
     height: 100%;
-    justify-content: space-around;
+    justify-content: space-between;
     margin: 0 auto;
     display: flex;
     align-items: center;
@@ -96,6 +105,7 @@
     height: 350px;
 }
 /* hot deal section END here */
+
 /* Instagram-Section START here */
 #Instagram-Section{
     text-align: center;
@@ -106,9 +116,34 @@
     width: 67%;
     margin: 0% auto;
 }
+.insta-img{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
 .insta-icon{
     width: 220px;
     height: 250px;
-    padding: 15px 5px;
 }
 /* Instagram-Section END here */
+/* input-section START here */
+.input-section{
+    text-align: center;
+    padding-top: 50px;
+    width: 80%;
+    height: 250px;
+    margin: 50px auto;
+    background-image: url('images/background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}#email{
+    width: 350px;
+    height: 45px;
+    padding: 20px;
+    margin: 30px 0px;
+    border: none;
+    border-radius: 5px;
+    background: #FFF;
+}
+/* input-section END here */

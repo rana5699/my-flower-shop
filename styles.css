@@ -96,3 +96,19 @@
     height: 350px;
 }
 /* hot deal section END here */
+/* Instagram-Section START here */
+#Instagram-Section{
+    text-align: center;
+    width: 80%;
+    margin: 50px auto;
+}
+.insta-info{
+    width: 67%;
+    margin: 0% auto;
+}
+.insta-icon{
+    width: 220px;
+    height: 250px;
+    padding: 15px 5px;
+}
+/* Instagram-Section END here */

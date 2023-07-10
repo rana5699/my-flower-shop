@@ -1,0 +1,56 @@
+/* Some Common Code START here */
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.primary-btn{
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    background: #E55473;
+    font-size: 20px;
+    color: #FFF;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    border: 0;
+}
+/* Some Common Code END here */
+/* Header Section START here */
+.heading{
+    background: rgba(229, 84, 115, 0.10);
+}
+.heading-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px  30px 0px 30px;
+}
+.heading-tittle{
+    margin-top: 20px;
+    color: #272727;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.heading-info{
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 20px 0px;
+}
+.header-photo{
+    width: 300px;
+    height: 565px;
+    padding-top: 30px;
+}
+/* Header Section END here */

@@ -90,6 +90,7 @@ nav{
     width: 300px;
     height: 565px;
     padding-top: 30px;
+    display: block;
 }
 /* Header Section END here */
 

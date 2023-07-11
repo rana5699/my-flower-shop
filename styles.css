@@ -25,7 +25,7 @@
 .coomon-h3{
     color: #272727;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
@@ -94,7 +94,80 @@ nav{
 /* Header Section END here */
 
 /* Featured Section START here */
+#Featured-section{
+    width: 100%;
+    height: 550px;
+    margin: 20px 0px;
+    text-align: center;
+}
+.featured-flowers-container{
+    width: 80%;
+    height: 380px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+.featured-flowers-box-1{
+    width: 27%;
+    height: 380px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.featured-flowers-box-2{
+    width: 27%;
+    height: 380px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    
+}
+.featured-flowers-box-3{
+    width: 27%;
+    height: 380px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.featured-photo{
+    width: 210px;
+    height: 380px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.order-link{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
 /* Featured Section END here */
+
+/* delivary section START here */
+#delivary-section{
+    width: 100%;
+}
+.delivary-container{
+    width: 80%;
+    height: 250px;
+    margin: 50px auto;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.delivary-box{
+    text-align: center;
+}
+.delivary-icon{
+    width: 70px;
+    height: 70px;
+    margin: 20px;
+}
+/* delivary section END here */
+
 /* hot deal section START here */
 #hot-deal{
     margin: 55px 0px;
